@@ -12,3 +12,4 @@ print("ceau ce faci? \n")
 raspuns= "foarte bine, invat python!"
 
 print(raspuns)
+    
